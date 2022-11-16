@@ -24,7 +24,7 @@ public class Ejemplo04 {
         System.out.println("Ingrese la opción trigonométrica.\n"
                 + "1 seno\n"
                 + "2 coseno\n"
-                + "3 tangente");
+                + "3 tangente"); 
         opcion = entrada.nextInt();
         
         System.out.println("Ingrese el valor en radianes");
